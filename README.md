@@ -1,4 +1,4 @@
-## Oi eu sou Willian Santos Chagas, Desenvolvedor Full-Stack!
+## Hi I'm Willian Santos Chagas, a Full-Stack Engineer!
 <div align="center">
   <a href="https://github.com/WillianSantosC">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=WillianSantosC&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
