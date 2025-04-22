@@ -1,4 +1,5 @@
-## Hi I'm Willian, a Full-Stack Engineer!
+## Hi I'm Willian, a Full Stack Developer with experience in creating scalable and optimized applications. Passionate about solving complex problems with efficient solutions, ensuring high performance and code quality. Proficient in backend and frontend development, with experience in DevOps and automation.
+
 <div align="center">
   <a href="https://github.com/WillianSantosC">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=WillianSantosC&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
